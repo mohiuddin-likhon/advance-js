@@ -8,3 +8,4 @@ const removed = nums.splice(2, 5, 77,88,99);
 const  together = nums.join("");
 console.log(together);
 //Array slice, splice, array join elements
+//new work test$
